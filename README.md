@@ -1,2 +1,6 @@
 # trucs-web-app
-Webapp in development
+Tech Stack:
+- Python
+- HTML/CSS/JS
+- PostgreSQL
+- Flask
